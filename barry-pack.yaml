@@ -1,0 +1,8 @@
+manifestVersion: 1
+name: google-images
+description: Google image search
+
+tools:
+  entry: tools.ts
+  env:
+    - BARRY_SERPER_API_KEY
